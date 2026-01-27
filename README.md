@@ -70,7 +70,7 @@ solving **DSA problems** to strengthen my problem-solving skills.
 
 ![Vinamr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinamr007&show_icons=true&theme=dark)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vinamr007&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamr007&layout=compact&theme=dark)
+
 
 ---
 
