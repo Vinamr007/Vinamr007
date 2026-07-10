@@ -2,132 +2,33 @@
 <h3 align="center">Java Backend Developer | Spring Boot Developer | Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinamr007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vinamr007&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Graduate in Information Technology (CGPA: 8.2)
+🎓 B.Tech Graduate in Information Technology (CGPA: **8.2**)
 
-💻 Passionate Java Backend Developer with hands-on experience in **Java, Spring Boot, REST APIs, MySQL, Firebase, and Salesforce.**
+💻 Passionate Java Backend Developer with hands-on experience in
 
-🚀 I enjoy building scalable backend applications, solving DSA problems, and continuously improving my software engineering skills.
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- Firebase
+- Salesforce
 
-🌱 Currently learning:
-- Advanced Spring Boot
-- System Design
-- Microservices
-- DSA & Problem Solving
+🚀 I love building scalable backend applications and solving real-world problems through clean and efficient code.
 
-🎯 Goal:
-> To become a Software Engineer at a top product-based company where I can build scalable applications and continuously learn new technologies.
-
----
-
-# 🚀 Experience
-
-### 💼 Software Engineering Intern | Salesforce
-**June 2025 – August 2025**
-
-- Developed cloud-based applications using Apex and Lightning Web Components (LWC)
-- Integrated external APIs
-- Automated business processes using Salesforce Flows
-- Worked on CRM customization and data management
-- Followed scalable software development best practices
-
----
-
-# 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 🚀 Featured Projects
-
-## 🏨 Hostel Daily Attendance System
-
-Android-based attendance management system built using Java & Firebase.
-
-### Features
-
-- Real-time attendance tracking
-- Role-based authentication
-- Parent & Admin Dashboard
-- Firebase Realtime Database
-- Attendance reports
-- Secure login
-
----
-
-## 🎥 YouTube Tag Generator
-
-A Spring Boot application that extracts YouTube video metadata.
-
-### Features
-
-- Fetch video tags
-- Thumbnail download
-- REST API integration
-- Simple and responsive UI
-
----
-
-## 🏦 Bank Management System
-
-Console-based Java application implementing Object-Oriented Programming.
-
-### Features
-
-- Account Creation
-- Deposit & Withdrawal
-- Balance Inquiry
-- OOP Concepts
-- Exception Handling
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Vinamr007&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vinamr007&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamr007&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 Certifications
-
-✔ HackerRank Java
-
-✔ HackerRank SQL
-
-✔ HackerRank Problem Solving
-
----
-
-# 📚 Currently Learning
+🌱 Currently Learning
 
 - Spring Security
 - JWT Authentication
@@ -136,27 +37,165 @@ Console-based Java application implementing Object-Oriented Programming.
 - System Design
 - Advanced DSA
 
----
+🎯 Goal
 
-# 🎯 Achievements
-
-🏅 B.Tech Information Technology Graduate
-
-🏅 Software Engineering Internship at Salesforce
-
-🏅 Built multiple backend projects
-
-🏅 Strong understanding of Java, Spring Boot & REST APIs
-
-🏅 Active GitHub learner and continuous problem solver
+Become a Software Engineer in a top product-based company.
 
 ---
 
-# 🤝 Connect with Me
+# 💼 Experience
+
+## Software Engineering Intern | Salesforce
+
+📅 June 2025 – August 2025
+
+✔ Developed cloud-based applications using Apex and Lightning Web Components (LWC)
+
+✔ Integrated external APIs
+
+✔ Automated business processes using Salesforce Flows
+
+✔ CRM Customization
+
+✔ Data Management
+
+✔ Scalable Software Development Practices
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Hostel Daily Attendance System
+
+Android-based attendance system using Java & Firebase.
+
+### Features
+
+- Role-Based Login
+- Real-time Attendance
+- Parent Dashboard
+- Firebase Realtime Database
+- Attendance Reports
+
+---
+
+## 🎥 YouTube Tag Generator
+
+Spring Boot Web Application
+
+### Features
+
+- Extract Video Tags
+- Thumbnail Download
+- REST API Integration
+- Responsive UI
+
+---
+
+## 🏦 Bank Management System
+
+Console-based Java Application
+
+### Features
+
+- Account Creation
+- Deposit
+- Withdrawal
+- Balance Inquiry
+- OOP Concepts
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vinamr007&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=Vinamr007&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamr007&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📉 GitHub Activity Graph
+
+[![Vinamr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinamr007&theme=tokyo-night)](https://github.com/Vinamr007)
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vinamr007&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📚 Certifications
+
+🏅 HackerRank Java
+
+🏅 HackerRank SQL
+
+🏅 HackerRank Problem Solving
+
+---
+
+# 📖 Currently Learning
+
+- Spring Boot Advanced
+- Spring Security
+- JWT Authentication
+- Docker
+- Microservices
+- System Design
+- Advanced DSA
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/vinamr-naik">
+<a href="https://www.linkedin.com/in/vinamr-naik">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -178,6 +217,14 @@ Console-based Java application implementing Object-Oriented Programming.
 
 # 💭 Quote
 
-> **"Great software is built one clean commit at a time."**
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
-⭐ Thanks for visiting my profile! Don't forget to check out my repositories.
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
