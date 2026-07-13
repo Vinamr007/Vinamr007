@@ -23,8 +23,7 @@
 - Spring Boot
 - REST APIs
 - MySQL
-- Firebase
-- Salesforce
+  - Salesforce
 
 🚀 I love building scalable backend applications and solving real-world problems through clean and efficient code.
 
@@ -80,7 +79,6 @@ Become a Software Engineer in a top product-based company.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ### Tools
 
