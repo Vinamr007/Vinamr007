@@ -15,7 +15,7 @@
 
 # 💫 About Me
 
-🎓 B.Tech Graduate in Information Technology (CGPA: **8.2**)
+🎓 B.Tech Graduate in Information Technology | Shivaji University (CGPA: **8.2**)
 
 💻 Passionate Java Backend Developer with hands-on experience in
 
